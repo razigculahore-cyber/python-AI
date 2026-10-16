@@ -1,1 +1,1 @@
-print("Iam Razagit add .
+print("Iam Razagit add")
